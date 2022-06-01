@@ -1,0 +1,134 @@
+{
+    "greetings" : {
+        "hello" : [
+            "good to hear , let me know if you need anything .",
+            "hi , it's really good to hear from you chanchal !",
+            "hello there ! so good to talk to you !",
+            "hi . a lot is going on in the world today . i hope you are taking care of yourself .",
+            "hi chanchal , what can i do for you ?",
+            "hey chanchal , what's up ?",
+            "hey , how are you ?",
+            "hello there , how can i be of service ?"
+        ],
+        "hai" : [
+            "good to hear , let me know if you need anything .",
+            "hi , it's really good to hear from you chanchal !",
+            "hello there ! so good to talk to you !",
+            "hi . a lot is going on in the world today . i hope you are taking care of yourself .",
+            "hi chanchal , what can i do for you ?",
+            "hey chanchal , what's up ?",
+            "hey , how are you ?",
+            "hello there , how can i be of service ?"
+        ],
+        "hello jarvis" : [
+            "good to hear , let me know if you need anything .",
+            "hi , it's really good to hear from you chanchal !",
+            "hello there ! so good to talk to you !",
+            "hi . a lot is going on in the world today . i hope you are taking care of yourself .",
+            "hi chanchal , what can i do for you ?",
+            "hey chanchal , what's up ?",
+            "hey , how are you ?",
+            "hello there , how can i be of service ?"
+        ],
+        "hi jarvis" : [
+            "good to hear , let me know if you need anything .",
+            "hi , it's really good to hear from you chanchal !",
+            "hello there ! so good to talk to you !",
+            "hi . a lot is going on in the world today . i hope you are taking care of yourself .",
+            "hi chanchal , what can i do for you ?",
+            "hey chanchal , what's up ?",
+            "hey , how are you ?",
+            "hello there , how can i be of service ?"
+        ],
+        "jarvis" : [
+            "good to hear , let me know if you need anything .",
+            "hi , it's really good to hear from you chanchal !",
+            "hello there ! so good to talk to you !",
+            "hi . a lot is going on in the world today . i hope you are taking care of yourself .",
+            "hi chanchal , what can i do for you ?",
+            "hey chanchal , what's up ?",
+            "hey , how are you ?",
+            "hello there , how can i be of service ?"
+        ],
+        "goodbye" : [
+            "have a good day , chanchal !",
+            "bye chanchal !",
+            "ok .",
+            "no problem , take care .",
+            "i will be here for you.",
+            "see you later",
+            "bye . until we meet again"
+        ],
+        "goodbye jarvis" : [
+            "have a good day , chanchal !",
+            "bye chanchal !",
+            "ok .",
+            "no problem , take care .",
+            "i will be here for you.",
+            "see you later",
+            "bye . until we meet again"
+        ],
+        "bye" : [
+            "have a good day , chanchal !",
+            "bye chanchal !",
+            "ok .",
+            "no problem , take care .",
+            "i will be here for you.",
+            "see you later",
+            "bye . until we meet again"
+        ],
+        "bye jarvis" : [
+            "have a good day , chanchal !",
+            "bye chanchal !",
+            "ok .",
+            "no problem , take care .",
+            "i will be here for you.",
+            "see you later",
+            "bye . until we meet again"
+        ],
+        "how are you" : [
+            "I am fine . You are very kind to ask , especially in this tempestuous times.",
+            "Thanks for asking , I am doing ok . I hope you are taking care of yourself.",
+            "I am good , thank you for asking.",
+            "I am great . Thank you for asking."
+        ],
+        "how are you jarvis" : [
+            "I am fine . You are very kind to ask , especially in this tempestuous times.",
+            "Thanks for asking , I am doing ok . I hope you are taking care of yourself.",
+            "I am good , thank you for asking.",
+            "I am great . Thank you for asking."
+        ]
+    },
+    "apps" : {
+        "arduino" : "C:\\Program Files (x86)\\Arduino\\arduino.exe",
+        "qt designer" : "C:\\Program Files (x86)\\Qt Designer\\designer.exe",
+        "wordpad" : "wordpad.exe",
+        "notepad" : "notepad.exe",
+        "paint" : "mspaint.exe",
+        "whatsapp" : "C:/Users/USER/AppData/Local/WhatsApp/WhatsApp.exe",
+        "obs studio" : "C:/Program Files/obs-studio/bin/64bit/obs64.exe",
+        "vs code" : "C:/Users/USER/AppData/Local/Programs/Microsoft VS Code/Code.exe"
+    },
+    "contact_no" : {
+        "achar" : "+919749365559",
+        "bhai" : "+919749994715",
+        "panda" : "+919832645725",
+        "amit" : "+918945980378",
+        "antik" : "+917384935485",
+        "reshav" : "+918918782773",
+        "chanchal" : "+918436970848",
+        "paltan" : "+919832418880",
+        "myself" : "+919735993637"
+    },
+    "email_id" : {
+        "achar"    :   "somnathachar025@gmail.com",
+        "bhai"     :   "biswassougata831@gmail.com",
+        "panda"    :   "sneha19sen@gmail.com",
+        "antik"    :   "antikdutta872@gmail.com",
+        "chanchal" :  "chexacc@gmail.com",
+        "myself"   :   "croy7667@gmail.com"
+    },
+    "id" : {
+        "test" : "I2TQynvx6L2DFFmw4hpYw6"
+    }
+}
